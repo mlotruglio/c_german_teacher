@@ -1,0 +1,4 @@
+hello: hallo
+good morning: guten morgen
+monday: montag
+right: richtig
