@@ -1,12 +1,32 @@
+// Corregir error overflow buffer teclado por reservar solo tamaño de la solucion
+// Añadir mas diccionarios, uno por semana y uno con las palabras mas dificiles que quiero repasar siempre (elegir por teclado)
+// Añadir gestion de errores y protecciones opne, read, malloc... 
+// Necesito un último salto de linea para detectar fin de la ultima palabra
+
 #include <fcntl.h>
 #include <unistd.h>
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
 
+void reset()
+{
+  printf("\x1B[37m");
+}
+
+void red()
+{
+  printf("\033[0;31m");
+}
+
+void green()
+{
+  printf("\033[0;32m");
+}
+
 int main()
 {
-	int fd = open("dictionary.txt", O_RDONLY);
+	int fd = open("dictionary_a1_1_w1.txt", O_RDONLY);
 	int i = 0;
 	int j = 0;
 	int letters = 0;
@@ -14,14 +34,26 @@ int main()
 	int wrong = 0;
 	char c = 'a';
 	char *str;
-	char *keyboard;
 	srand(time(NULL));
 	int r = 0;
 	int newlines = 0;
-	while(i < 4)
+	int points = 0;
+	int total_q = 10;
+	int dict_size;
+
+	while(i_read)
+	{
+		i_read = read(fd, &c, 1);
+		if (c == '\n')
+			newlines++;
+	}
+	dict_size = newlines;
+	lseek(fd, 0, SEEK_SET);
+
+	while(i < total_q)
 	{
 		newlines = 0;
-		r = rand() % 4; 
+		r = rand() % dict_size; 
 		while(newlines < r)
 		{
 			read(fd, &c, 1);
@@ -34,9 +66,9 @@ int main()
 		{
 			read(fd, &c, 1);
 			if (c != ':')
-				write(1, &c, 1);
+				printf("%c", c);
 		}
-		write(1, " in German: \n", 13);
+		printf(" in German: \n");
 
 		letters = 0;
 		read(fd, &c, 1);
@@ -65,12 +97,22 @@ int main()
 			j++;
 		}
 		if (wrong)
-			write(1, "Incorrect answer\n", 17);
+		{
+			red();
+			printf("x\n\n");
+			reset();
+		}
 		else
-			write(1, "Correct answer\n", 15);
+		{
+			green();
+			printf("\xE2\x9C\x93\n\n");
+			reset();
+			points++;
+		}
 		lseek(fd, 0, SEEK_SET);
 		i++;
 	}
+	printf("\nSCORE: %d / %d\n", points, i);
 	free(str);
 	close(fd);
 }

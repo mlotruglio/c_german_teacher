@@ -1,0 +1,19 @@
+Hello: Hallo
+Good morning: Guten Morgen
+Monday: Montag
+Tuesday: Dienstag
+Wednesday: Mittwoch
+Thursday: Donnerstag
+Friday: Freitag
+Saturday: Samstag
+Sunday: Sonntag
+Right: Richtig
+Excuse me: Entschuldigung
+I'm sorry: Tut mir leid
+Big: Gross
+Small: Klein
+Together: Zusammen
+Also: Auch
+Great: Toll
+Name: Vorname
+Last name: Nachname
