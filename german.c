@@ -1,6 +1,8 @@
-// Corregir error overflow buffer teclado por reservar solo tamaño de la solucion
 // Añadir mas diccionarios, uno por semana y uno con las palabras mas dificiles que quiero repasar siempre (elegir por teclado)
 // Añadir gestion de errores y protecciones opne, read, malloc... 
+// Guardar numero respuestas correctas cada palabra (separar con otro ":"?) para preguntar más por las que no me se!!
+
+// Probar si la última palabra del diccionario se está extrayendo también
 // Necesito un último salto de linea para detectar fin de la ultima palabra
 
 #include <fcntl.h>
@@ -49,6 +51,9 @@ int main()
 	}
 	dict_size = newlines;
 	lseek(fd, 0, SEEK_SET);
+	printf("\nDictionary size: %d\n\n", dict_size);
+	// printf("How many words do you want?");
+	// read(0, &c, 1);
 
 	while(i < total_q)
 	{
@@ -61,6 +66,7 @@ int main()
 				newlines++;
 		}
 
+		printf("\"");
 		c = 'a';
 		while(c != ':')
 		{
@@ -68,8 +74,10 @@ int main()
 			if (c != ':')
 				printf("%c", c);
 		}
-		printf(" in German: \n");
+		printf("\" in German: \n");
+		//printf(" : ");
 
+		c = 'a';
 		letters = 0;
 		read(fd, &c, 1);
 		while(c != '\n')
@@ -94,12 +102,16 @@ int main()
 				wrong = 1;
 				break;
 			}
+			if (c == '\n')
+				break;
 			j++;
 		}
+		while(i_read > 0 && c != '\n')
+			i_read = read(0, &c, 1);			
 		if (wrong)
 		{
 			red();
-			printf("x\n\n");
+			printf("x \u2192 %s\n\n", str);
 			reset();
 		}
 		else

@@ -17,3 +17,16 @@ Also: Auch
 Great: Toll
 Name: Vorname
 Last name: Nachname
+What's up?: Wie geht's?
+Yo soy: Ich bin
+Tú eres: Du bist
+Él es: Er ist
+Nosotros somos: Wir sind
+Vosotros sois: Ihr seid
+Ellos son: Sie sind
+Herman@s: Geschwister
+Hermanos: Brüder
+Hermanas: Schwestern
+Hermano: Bruder
+Hermana: Schwester
+:
