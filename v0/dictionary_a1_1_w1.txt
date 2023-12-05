@@ -33,7 +33,7 @@ La ciudad (2): Die Stadt / Der Ort
 El código postal: Die Postleitzahl
 Casado: Verheiratet
 Divorciado: Geschieden
-Verwitwet: Viudo
+Viudo: Verwitwet
 El número (de casa): Die Hausnummer
 Adiós: Tschüs
 Adiós (ver): Auf Wiedersehen
@@ -73,7 +73,7 @@ Great: Toll
 Agradable / ameno: Angenehm
 Deletrea por favor: Buchstabieren bitte
 The Name: Der Vorname
-Last name: Der Nachname
+The last name: Der Nachname
 Qué tal estás? Muy bien: Wie geht's? Sehr gut
 Qué tal estás? Yo estoy bien: Wie geht's? Mir geht's gut
 Qué tal estás? Bueno, ahí voy: Wie geht's? Na ja, es geht

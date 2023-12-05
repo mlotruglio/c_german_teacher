@@ -34,7 +34,7 @@
 0: El código postal: Die Postleitzahl
 0: Casado: Verheiratet
 0: Divorciado: Geschieden
-0: Verwitwet: Viudo
+0: Viudo: Verwitwet
 0: El número (de casa): Die Hausnummer
 0: Adiós: Tschüs
 0: Adiós (ver): Auf Wiedersehen
@@ -74,7 +74,7 @@
 0: Agradable / ameno: Angenehm
 0: Deletrea por favor: Buchstabieren bitte
 0: The Name: Der Vorname
-0: Last name: Der Nachname
+0: The last name: Der Nachname
 0: Qué tal estás? Muy bien: Wie geht's? Sehr gut
 0: Qué tal estás? Yo estoy bien: Wie geht's? Mir geht's gut
 0: Qué tal estás? Bueno, ahí voy: Wie geht's? Na ja, es geht
