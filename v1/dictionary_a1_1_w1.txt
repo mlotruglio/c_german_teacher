@@ -1,0 +1,234 @@
+0
+0: Hello: Hallo
+0: Good morning: Guten Morgen
+0: Good afternoon: Guten Tag
+0: Good evening: Guten Abend
+0: Good night: Gute Nacht
+0: Que tengas un buen día: Schönen Tag noch
+0: Que tengas una buena tarde (2): Schönen Abend / Schönen Nachmittag
+0: Que tengas un buen finde: Schönen Wochenende
+0: Hasta luego: Bis später
+0: Hasta mañana: Bis morgen
+0: It fits: Es passt
+0: Juntos: Zusammen
+0: El finde: Das Wochenende
+0: The Monday: Der Montag
+0: The Tuesday: Der Dienstag
+0: The Wednesday: Der Mittwoch
+0: The Thursday: Der Donnerstag
+0: The Friday: Der Freitag
+0: The Saturday: Der Samstag
+0: The Sunday: Der Sonntag
+0: Right: Richtig
+0: False: Falsch
+0: El profesor: Der Lehrer
+0: La profesora: Die Lehrerin
+0: Excuse me: Entschuldigung
+0: I'm sorry: Tut mir leid
+0: Unfortunately: Leider
+0: El significado: Die Bedeutung
+0: El país: Das Land
+0: La dirección: Die Adresse
+0: La calle: Die Strasse
+0: La ciudad (2): Die Stadt / Der Ort
+0: El código postal: Die Postleitzahl
+0: Casado: Verheiratet
+0: Divorciado: Geschieden
+0: Verwitwet: Viudo
+0: El número (de casa): Die Hausnummer
+0: Adiós: Tschüs
+0: Adiós (ver): Auf Wiedersehen
+0: Adiós (escuchar): Auf Wiederhören
+0: Bienvenido: Willkommen
+0: Calurosa bienvenida: Herzlich Willkommen
+0: El ejercicio: Die Übung
+0: La página: Die Seite
+0: El diálogo: Das Gespräch
+0: Los deberes de casa: Die Hausaufgabe
+0: La pregunta: Die Frage
+0: La respuesta: Die Antwort
+0: La palabra: Das Wort
+0: La letra: Der Buchstabe
+0: Formal: Formell
+0: Informal: Informell
+0: Big: Gross
+0: Small: Klein
+0: La repetición: Die Wiederholung
+0: El miembro de la familia: Das Familienmitglied
+0: Los miembros de la familia: Die Familienmitglieder
+0: Eso es!: Stimmt!
+0: Exactamente: Genau
+0: Mi: mein / meine
+0: Tu: dein / deine
+0: Su: ihr / ihre
+0: El tema: Das Thema
+0: Nuevo: Neu
+0: Nuevo tema: Neues Thema
+0: Muy: Sehr
+0: También: Auch
+0: Pero: Aber
+0: Muchas gracias: Danke schön
+0: De nada: Gern geschehen
+0: El final: Das Ziel
+0: Great: Toll
+0: Agradable / ameno: Angenehm
+0: Deletrea por favor: Buchstabieren bitte
+0: The Name: Der Vorname
+0: Last name: Der Nachname
+0: Qué tal estás? Muy bien: Wie geht's? Sehr gut
+0: Qué tal estás? Yo estoy bien: Wie geht's? Mir geht's gut
+0: Qué tal estás? Bueno, ahí voy: Wie geht's? Na ja, es geht
+0: Qué tal estás? No muy bien: Wie geht's? Nicht so gut
+0: Un placer: Freut mich
+0: Un poco: ein bisschen
+0: Una vez más: noch einmal
+0: Cómo te va?: Wie geht's dir?
+0: Quién eres? Yo soy...: Wie heisst du? Ich heisse...
+0: Cómo te llamas? Me llamo...: Wer bist du? Ich bin...
+0: Cuál es tu nombre? Mi nombre es...: Wie ist dein Name? Mein Name ist...
+0: Perdón, qué?: Wie bitte?
+0: De dónde eres? Yo soy de...: Woher kommst du? Ich komme aus...
+0: Qué idiomas hablas? Yo hablo...: Was sprichst du? Ich spreche...
+0: Quién es? Ese es...: Wer ist das? Das ist...
+0: Quién es? Ese soy yo: Wer ist das? Das bin ich
+0: No sé: Ich weiss nicht
+0: No lo sé: Ich weisses nicht
+0: Qué es lo correcto?: Was ist richtig?
+0: Qué significa...? (2): Was heisst...? / Was bedeutet...?
+0: Los padres: Die Eltern
+0: El padre (2): Der Vater / Der Papa
+0: La madre (2): Die Mutter / Die Mama
+0: Los abuelos: Die Grosseltern
+0: El abuelo (2): Der Opa / Der Grossvater
+0: La abuela (2): Die Oma / Die Grossmutter
+0: Los Herman@s: Die Geschwister
+0: Los Hermanos: Die Brüder
+0: arroba: ät
+0: El juego: Das Spiel
+0: Las Hermanas: Die Schwestern
+0: El Hermano: Der Bruder
+0: La Hermana: Die Schwester
+0: El hijo: Der Sohn
+0: La hija: Die Tochter
+0: El esposo / marido: Der Ehemann
+0: La esposa / mujer: Die Ehefrau
+0: El primo: Der Cousin
+0: La prima: Die Cousine
+0: El nieto: Der Enkel
+0: La nieta: Die Enkelin
+0: El hombre: Der Mann
+0: La mujer: Die Frau
+0: ä / ö / ü (con puntos): a-umlaut
+0: (ser / estar): (sein) ich bin, du bist, er ist, wir sind, ihr seid, sie sind
+0: Yo soy: Ich bin
+0: Tú eres: Du bist
+0: Él es: Er ist
+0: Nosotros somos: Wir sind
+0: Vosotros sois: Ihr seid
+0: Ellos son: Sie sind
+0: (llamarse): (heissen) ich heisse, du heisst, er heisst, wir heissen, ihr heisst, sie heissen
+0: Yo me llamo: Ich heisse
+0: Tu te llamas: Du heisst
+0: Él se llama: Er heisst
+0: Nosotros nos llamamos: Wir heissen
+0: Vosotros os llamáis: Ihr heisst
+0: Ellos se llaman: Sie heissen
+0: (ser de): (kommen) ich komme, du kommst, er kommt, wir kommen, ihr kommt, sie kommen
+0: Yo soy de: Ich komme
+0: Tú eres de: Du kommst
+0: Él es de: Er kommt
+0: Nosotros somos de: Wir kommen
+0: Vosotros sois de: Ihr kommt
+0: Ellos son de: Sie kommen
+0: (hablar): (sprechen) ich spreche, du sprichst, er spricht, wir sprechen, ihr sprecht, sie sprechen
+0: Yo hablo: Ich spreche
+0: Tú hablas: Du sprichst
+0: Él habla: Er spricht
+0: Nosotros hablamos: Wir sprechen
+0: Vosotros habláis: Ihr sprecht
+0: Ellos hablan: Sie sprechen
+0: (deletrear): (buchstabieren) ich buchstabiere, du buchstabierst, er buchstabiert, wir buchstabieren, ihr buchstabiert, sie buchstabieren
+0: Yo deletreo: Ich buchstabiere
+0: Tú deletreas: Du buchstabierst
+0: Él deletrea: Er buchstabiert
+0: Nosotros deletreamos: Wir buchstabieren
+0: Vosotros deletreáis: Ihr buchstabiert
+0: Ellos deletrean: Sie buchstabieren
+0: (escuchar): (hören) ich höre, du hörst, er hört, wir hören, ihr hört, sie hören
+0: Yo escucho: Ich höre
+0: Tú escuchas: Du hörst
+0: Él escucha: Er hört
+0: Nosotros escuchamos: Wir hören
+0: Vosotros escucháis: Ihr hört
+0: Ellos escuchan: Sie hören
+0: (conectar): (verbinden) ich verbinde, du verbindest, er verbindet, wir verbinden, ihr verbindet, sie verbinden
+0: Yo conecto: Ich verbinde
+0: Tú conectas: Du verbindest
+0: Él conecta: Er verbindet
+0: Nosotros conectamos: Wir verbinden
+0: Vosotros conectáis: Ihr verbindet
+0: Ellos conectan: Sie verbinden
+0: (cruzar): (kreuzen) ich kreuze, du kreuzt, er kreuzt, wir kreuzen, ihr kreuzt, sie kreuzen
+0: Yo cruzo: Ich kreuze
+0: Tú cruzas: Du kreuzt
+0: Él cruza: Er kreuzt
+0: Nosotros cruzamos: Wir kreuzen
+0: Vosotros cruzáis: Ihr kreuzt
+0: Ellos cruzan: Sie kreuzen
+0: (marcar con cruz): (ankreuzen) ich kreuze an, du kreuzt an, er kreuzt an, wir kreuzen an, ihr kreuzt an, sie kreuzen an
+0: Yo marco: Ich kreuze an
+0: Tú marcas: Du kreuzt an
+0: Él marca: Er kreuzt an
+0: Nosotros marcamos: Wir kreuzen an
+0: Vosotros marcáis: Ihr kreuzt an
+0: Ellos marcan: Sie kreuzen an
+0: (comparar): (vergleichen) ich vergleiche, du vergleichst, er vergleicht, wir vergleichen, ihr vergleicht, sie vergleichen
+0: Yo comparo: Ich vergleiche
+0: Tú comparas: Du vergleichst
+0: Él compara: Er vergleicht
+0: Nosotros comparamos: Wir vergleichen
+0: Vosotros comparáis: Ihr vergleicht
+0: Ellos comparan: Sie vergleichen
+0: (entender): (verstehen) ich verstehe, du verstehst, er versteht, wir verstehen, ihr versteht, sie verstehen
+0: Yo entiendo: Ich verstehe
+0: Tú entiendes: Du verstehst
+0: Él entiende: Er versteht
+0: Nosotros entendemos: Wir verstehen
+0: Vosotros entendéis: Ihr versteht
+0: Ellos entienden: Sie verstehen
+0: (escribir): (schreiben) ich schreibe, du schreibst, er schreibt, wir schreiben, ihr schreibt, sie schreiben
+0: Yo escribo: Ich schreibe
+0: Tú escribes: Du schreibst
+0: Él escribe: Er schreibt
+0: Nosotros escribimos: Wir schreiben
+0: Vosotros escribís: Ihr schreibt
+0: Ellos escriben: Sie schreiben
+0: (preguntar): (fragen) ich frage, du fragst, er fragt, wir fragen, ihr fragt, sie fragen
+0: Yo pregunto: Ich frage
+0: Tú preguntas: Du fragst
+0: Él pregunta: Er fragt
+0: Nosotros preguntamos: Wir fragen
+0: Vosotros preguntáis: Ihr fragt
+0: Ellos preguntan: Sie fragen
+0: (decir): (sagen) ich sage, du sagst, er sagt, wir sagen, ihr sagt, sie sagen
+0: Yo digo: Ich sage
+0: Tú dices: Du sagst
+0: Él dice: Er sagt
+0: Nosotros decimos: Wir sagen
+0: Vosotros decís: Ihr sagt
+0: Ellos dicen: Sie sagen
+0: (ir): (gehen) ich gehe, du gehst, er geht, wir gehen, ihr geht, sie gehen
+0: Yo voy: Ich gehe
+0: Tú vas: Du gehst
+0: Él va: Er geht
+0: Nosotros vamos: Wir gehen
+0: Vosotros vais: Ihr geht
+0: Ellos van: Sie gehen
+0: (tener): (haben) ich habe, du hast, er hat, wir haben, ihr habt, sie haben
+0: Yo tengo: Ich habe
+0: Tú tienes: Du hast
+0: Él tiene: Er hat
+0: Nosotros tenemos: Wir haben
+0: Vosotros tenéis: Ihr habt
+0: Ellos tienen: Sie haben
+:

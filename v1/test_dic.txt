@@ -1,0 +1,5 @@
+8
+8: Hello: Hallo
+8: Good morning: Guten Morgen
+10: Good afternoon: Guten Tag
+:
