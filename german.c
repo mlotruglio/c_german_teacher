@@ -40,7 +40,7 @@ int main()
 	int r = 0;
 	int newlines = 0;
 	int points = 0;
-	int total_q = 10;
+	int total_q = 0;
 	int dict_size;
 
 	while(i_read)
@@ -52,8 +52,9 @@ int main()
 	dict_size = newlines;
 	lseek(fd, 0, SEEK_SET);
 	printf("\nDictionary size: %d\n\n", dict_size);
-	// printf("How many words do you want?");
-	// read(0, &c, 1);
+
+	printf("How many questions do you want?\n");
+	scanf("%d", &total_q);
 
 	while(i < total_q)
 	{
@@ -75,7 +76,6 @@ int main()
 				printf("%c", c);
 		}
 		printf("\" in German: \n");
-		//printf(" : ");
 
 		c = 'a';
 		letters = 0;
