@@ -79,7 +79,7 @@ Qué tal estás? Yo estoy bien: Wie geht's? Mir geht's gut
 Qué tal estás? Bueno, ahí voy: Wie geht's? Na ja, es geht
 Qué tal estás? No muy bien: Wie geht's? Nicht so gut
 Un placer: Freut mich
-Un poco: ein bisschen
+Un poco: Ein bisschen
 Una vez más: noch einmal
 Cómo te va?: Wie geht's dir?
 Quién eres? Yo soy...: Wie heisst du? Ich heisse...

@@ -80,7 +80,7 @@
 0: Qué tal estás? Bueno, ahí voy: Wie geht's? Na ja, es geht
 0: Qué tal estás? No muy bien: Wie geht's? Nicht so gut
 0: Un placer: Freut mich
-0: Un poco: ein bisschen
+0: Un poco: Ein bisschen
 0: Una vez más: noch einmal
 0: Cómo te va?: Wie geht's dir?
 0: Quién eres? Yo soy...: Wie heisst du? Ich heisse...
